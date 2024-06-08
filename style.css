@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    border-collapse:collapse;
+    font-size: 2em;
+    margin: 0 auto;
+}
+.container {
+    text-align: center;
+}
+
+tbody,colgroup{
+    border: solid medium;
+}
+td{
+    border: solid thin;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;    
+}
+button{
+    margin-top: 15px;
+    font-size: 1.5em;
+    border-radius: 5px;
+    background-color: chocolate;
+    
+}
+img{
+    padding: 10px  ;
+    border: solid thin brown;
+    border-radius: 20px;
+}
+h1{
+    font-size: 3em;
+    color: darkcyan;
+}
